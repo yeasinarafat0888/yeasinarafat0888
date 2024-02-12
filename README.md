@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
 <h3 align="center">A dedicated frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafat0888&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafat0888" /> </p>
 
