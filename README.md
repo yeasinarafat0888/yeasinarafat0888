@@ -15,7 +15,7 @@ Passionate front-end developer with a keen eye for design and user experience. P
 
 - 👨‍💻 All of my projects are available at [https://github.com/yeasinarafat0888](https://github.com/yeasinarafat0888)
 
-- 💬 Ask me about **About frontend development**
+- 💬 Ask me about **About Frontend Development**
 
 - 📫 How to reach me **yeasinarafat0888@gmail.com**
 
