@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [retouchstudio24.com](retouchstudio24.com)
 
-- 🌱 I’m currently learning **Backend development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/yeasinarafat0888](https://github.com/yeasinarafat0888)
 
 - 💬 Ask me about **About frontend development**
