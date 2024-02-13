@@ -38,8 +38,8 @@ Passionate front-end developer with a keen eye for design and user experience. P
 <a href="https://www.linkedin.com/in/devyeasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devyeasin/" height="30" width="40" /></a>
 <a href="https://dribbble.com/yeasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yeasinarafat" height="30" width="40" /></a>
 <a href="https://instagram.com/yeasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeasinarafat" height="30" width="40" /></a>
-<a href="https://www.behance.net/yeasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yeasinarafat" height="30" width="40" /></a>
 <a href="https://twitter.com/yeasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeasin" height="30" width="40" /></a>
+<a href="https://www.behance.net/yeasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yeasinarafat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yeasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yeasinarafat" height="30" width="40" /></a>
 </p>
 </p>
